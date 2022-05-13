@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="{x7:.3f}mm" height="{y3:.3f}mm"
+    style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+    viewBox="{x0:.3f} {y0:.3f} {x7:.3f} {y3:.3f}">
+    <defs>
+        <style type="text/css">
+            <![CDATA[
+            .str0 {{
+                stroke: black;
+                stroke-width: 0.3528
+            }}
+
+            .str1 {{
+                stroke: black;
+                stroke-width: 0.3528;
+                stroke-dasharray: 1 1
+            }}
+
+            .fil0 {{
+                fill: none
+            }}
+            ]]>
+        </style>
+    </defs>
+    <rect class="fil0 str0" x="{x0:.3f}" y="{y0:.3f}" width="{side_ext}" height="{y1:.3f}" />
+    <rect class="fil0 str0" x="{x0:.3f}" y="{y1:.3f}" width="{side_ext}" height="{half_depth}" />
+    <rect class="fil0 str0" x="{x0:.3f}" y="{y2:.3f}" width="{side_ext}" height="{bottom_ext}" />
+    <rect class="fil0 str0" x="{x1:.3f}" y="{y0:.3f}" width="{half_depth}" height="{y1:.3f}" />
+    <rect class="fil0 str0" x="{x1:.3f}" y="{y1:.3f}" width="{half_depth}" height="{half_depth}" />
+    <rect class="fil0 str0" x="{x1:.3f}" y="{y2:.3f}" width="{half_depth}" height="{bottom_ext}" />
+    <rect class="fil0 str0" x="{x2:.3f}" y="{y0:.3f}" width="{half_depth}" height="{y1:.3f}" />
+    <rect class="fil0 str0" x="{x2:.3f}" y="{y1:.3f}" width="{half_depth}" height="{half_depth}" />
+    <rect class="fil0 str0" x="{x2:.3f}" y="{y2:.3f}" width="{half_depth}" height="{bottom_ext}" />
+    <rect class="fil0 str0" x="{x3:.3f}" y="{y0:.3f}" width="{width}" height="{y1:.3f}" />
+    <rect class="fil0 str0" x="{x3:.3f}" y="{y1:.3f}" width="{width}" height="{half_depth}" />
+    <rect class="fil0 str0" x="{x3:.3f}" y="{y2:.3f}" width="{width}" height="{bottom_ext}" />
+    <rect class="fil0 str0" x="{x4:.3f}" y="{y0:.3f}" width="{half_depth}" height="{y1:.3f}" />
+    <rect class="fil0 str0" x="{x4:.3f}" y="{y1:.3f}" width="{half_depth}" height="{half_depth}" />
+    <rect class="fil0 str0" x="{x4:.3f}" y="{y2:.3f}" width="{half_depth}" height="{bottom_ext}" />
+    <rect class="fil0 str0" x="{x5:.3f}" y="{y0:.3f}" width="{half_depth}" height="{y1:.3f}" />
+    <rect class="fil0 str0" x="{x5:.3f}" y="{y1:.3f}" width="{half_depth}" height="{half_depth}" />
+    <rect class="fil0 str0" x="{x5:.3f}" y="{y2:.3f}" width="{half_depth}" height="{bottom_ext}" />
+    <rect class="fil0 str0" x="{x6:.3f}" y="{y0:.3f}" width="{width}" height="{y1:.3f}" />
+    <rect class="fil0 str0" x="{x6:.3f}" y="{y1:.3f}" width="{width}" height="{half_depth}" />
+    <rect class="fil0 str0" x="{x6:.3f}" y="{y2:.3f}" width="{width}" height="{bottom_ext}" />
+    <line class="fil0 str1" x1="{x1:.3f}" y1="{y2:.3f}" x2="0" y2="{ly0:.3f}" />
+    <line class="fil0 str1" x1="{x1:.3f}" y1="{y2:.3f}" x2="{x2:.3f}" y2="{y1:.3f}" />
+    <line class="fil0 str1" x1="{x1:.3f}" y1="{y2:.3f}" x2="{x2:.3f}" y2="{ly1:.3f}" />
+    <line class="fil0 str1" x1="{x3:.3f}" y1="{y2:.3f}" x2="{x2:.3f}" y2="{y1:.3f}" />
+    <line class="fil0 str1" x1="{x3:.3f}" y1="{y2:.3f}" x2="{x2:.3f}" y2="{ly1:.3f}" />
+    <line class="fil0 str1" x1="{x3:.3f}" y1="{y2:.3f}" x2="{lx0:.3f}" y2="{y3:.3f}" />
+    <line class="fil0 str1" x1="{x4:.3f}" y1="{y2:.3f}" x2="{lx1:.3f}" y2="{y3:.3f}" />
+    <line class="fil0 str1" x1="{x4:.3f}" y1="{y2:.3f}" x2="{x5:.3f}" y2="{y1:.3f}" />
+    <line class="fil0 str1" x1="{x4:.3f}" y1="{y2:.3f}" x2="{x5:.3f}" y2="{ly1:.3f}" />
+    <line class="fil0 str1" x1="{x6:.3f}" y1="{y2:.3f}" x2="{x5:.3f}" y2="{y1:.3f}" />
+    <line class="fil0 str1" x1="{x6:.3f}" y1="{y2:.3f}" x2="{x5:.3f}" y2="{ly1:.3f}" />
+    <line class="fil0 str1" x1="{x6:.3f}" y1="{y2:.3f}" x2="{lx2:.3f}" y2="{y3:.3f}" />
+    <line class="fil0 str1" x1="{x7:.3f}" y1="{y2:.3f}" x2="{lx3:.3f}" y2="{y3:.3f}" />
+</svg>

@@ -1,0 +1,1 @@
+TEMPLATE_PATH = "svg/template.svg"
